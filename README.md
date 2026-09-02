@@ -1,0 +1,2 @@
+# BePractical-training
+Learning python
